@@ -1,0 +1,5 @@
+Details
+Platforms: Android, IOS, Desktop
+Screen Orientation: Landscape
+Genre: Action, Arcade, Cards, Skill, Cool Games, Popular, Parkour
+Languages: English
