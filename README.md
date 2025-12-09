@@ -8,3 +8,4 @@ You can now customize your arrow and wheel with different skins, as well as chan
 The game features 6 levels with increasing difficulty. Each level combines both Arrow and Wheel gameplay segments, offering variety and challenge.
 
 Unlock achievements as you progress and show off your skills!
+Choose one of the 6 levels in the menu and start the game by clicking it with the left mouse button, the SPACEBAR or your finger. PC controls: ─ LEFT MOUSE BUTTON or SPACEBAR ─ arrow movement; ─ ESCAPE ─ exit the level. MOBILE controls: ─ TOUCHING THE SCREEN ─ movement of the arrow.
